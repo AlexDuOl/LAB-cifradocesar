@@ -27,7 +27,7 @@ Es un tipo de cifrado por sustitución en el que una letra en el texto original 
 
 2. Verificar que el usuario no ingrese un campo vacío, si es así regresar al prompt.
 
-3. Si cumple la condición, el usuario selecciona mediante un prompt si quiere cifrar o descifrar 
+3. Si cumple la condición, el usuario selecciona mediante un prompt si quiere cifrar o descifrar
 
 4. Implementar la función seleccionada previamente por el usuario y enviar la frase que corresponda
 
